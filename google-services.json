@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258137126589",
+    "project_id": "togalugombe-c43df",
+    "storage_bucket": "togalugombe-c43df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258137126589:android:427bb0258ca55ed327a9d4",
+        "android_client_info": {
+          "package_name": "com.togalugombe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDXYHyx24CrVYGWtCM3H8w-t__16n6X_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
